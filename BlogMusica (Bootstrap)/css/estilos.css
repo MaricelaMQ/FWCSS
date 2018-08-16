@@ -1,0 +1,55 @@
+*{
+  /* border: 1px solid black; */
+}
+
+.navbar-custom{
+  margin:5px;  
+  border-radius: 5px;
+}
+/*[class*="co"] {
+ 
+}*/
+.seccion{
+  background-color: white!important;  
+}
+
+.redsocial{
+  margin-top: 70px;
+}
+
+.redsocial img{
+  width: 50px;
+  height:  50px;
+}
+
+span {
+  font-size: 35px;  
+  margin-top: 2px;  
+}
+
+body {
+  background-color: #758b7c94!important;
+}
+
+
+
+li{  
+  width: 100%;  
+  /*display: inline-block;*/
+}
+
+ul{
+  margin-left:3px!important;
+  margin-right:10px!important;
+  list-style-type: none;  
+  width:100%;}
+
+.menu{
+  background-color: rgb(203, 206, 21)!important;   
+}
+
+ul > li:hover{  
+    background-color: rgb(235, 188, 127)!important;}
+
+ul > li > a:hover{
+      background-color: rgb(235, 188, 127)!important;}
